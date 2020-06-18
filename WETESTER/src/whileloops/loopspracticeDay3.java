@@ -20,9 +20,9 @@ void callingforloop()
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		loopspracticeDay3 L1 = new loopspracticeDay3();
 		L1.callingforloop();
+		System.out.println("Done...");
 
 	}
 
